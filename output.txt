@@ -1,0 +1,2 @@
+GOSSIP|Sent 220 bytes to neighbor
+Client disconnected - IP: 127.0.0.1, Port: 61784
